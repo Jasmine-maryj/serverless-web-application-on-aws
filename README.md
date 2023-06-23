@@ -1,5 +1,6 @@
 # serverless-web-application-on-aws
-Build a web application on AWS Cloud using AWS Services such as AWS Amplify, AWS IAM, Amazon API Gateway, AWS Lambda, and Amazon DynamoDB.
+
+All the AWS services set up can securely communicate with each other. When a user chooses a button in the web app, it makes a call to an API, which triggers a Lambda function. The lambda function writes to a database and returns a message to a client via API Gateway. IAM manages all of the permissions.
 
 ### AWS Amplify
 Use of AWS Amplify console to deploy the static resources for web application
