@@ -16,3 +16,7 @@ Use of AWS Identity and Access Management (IAM) service to securely give our ser
 
 ### AWS API Gateway
 Use of Amazon API Gateway to create a RESTful API that will allow making calls to Lambda function from a web client. API Gateway will act as a middle layer between the HTML client and the serverless backend.
+
+<p align="center">
+  <img src="https://github.com/Jasmine-maryj/serverless-web-application-on-aws/blob/main/architecture/Test%20.png" alt="architectural-view">
+</p>
